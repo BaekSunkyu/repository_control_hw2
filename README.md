@@ -3,4 +3,6 @@
 
 2000 11 17 BaekSunkyu
 
+2020732064 백선규 BaekSunkyu
+
 2001.11.14 HWANG JUN WOO
