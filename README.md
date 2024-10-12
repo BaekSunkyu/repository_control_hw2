@@ -6,3 +6,6 @@
 2020732064 백선규 BaekSunkyu
 
 2001.11.14 HWANG JUN WOO
+
+2001 05 27 Oh JiSU
+
